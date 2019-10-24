@@ -1,1 +1,6 @@
 "hello git"
+meu arquivo de texto
+adicionar linha
+adicionar linha 2
+adicionar linha 3
+adicionar linha 4
